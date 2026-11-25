@@ -1,9 +1,8 @@
 /* ============ Daten: Über mich ============ */
 const INTRO = [
-  "Ein Kunde erlebt App, Plattform, Shop und Verkaufsfläche als einen Ablauf. Ein Unternehmen verwaltet sie als vier. An den Übergängen gehen Zeit, Geld und Kunden verloren. Seit 18 Jahren finde ich diese Stellen und baue die Lösung mit dem Team, bis sie läuft.",
-  "Ich fange nicht beim Design an, sondern beim Kunden. Ich spreche mit den Menschen, die dem Problem am nächsten sind, von der Geschäftsführung bis zur Werkstatt, untersuche den tatsächlichen Ablauf und finde den einen Hebel mit der größten Wirkung. Danach entwerfe, teste und führe ich die Lösung ein, bis sie läuft.",
-  "Meine Arbeit reicht von Startups über Mittelständler bis zu Samsung, DHL und Mercedes-AMG. Ich habe Teams geführt, Design und Entwicklung an einen Tisch gebracht und Projekte von der ersten Idee über das Konzept bis zum Rollout verantwortet.",
-  "Wer nur einen Screen gestaltet haben will, findet günstigere Anbieter. Wer wissen will, warum Kunden abspringen, und das ändern will, ist bei mir richtig."
+  "Ein Kunde erlebt App, Plattform, Shop und Verkaufsfläche als einen Ablauf. Ein Unternehmen verwaltet sie als vier. An den Übergängen gehen Zeit, Geld und Kunden verloren. Seit 18 Jahren finde ich diese Stellen und löse sie.",
+  "Ich beginne beim Kunden, nicht beim Design. Ich spreche mit den Menschen, die dem Problem am nächsten sind, untersuche den echten Ablauf, finde den Hebel mit der größten Wirkung und führe die Lösung ein, bis sie läuft.",
+  "Meine Kunden reichen von Startups über Mittelständler bis zu Samsung, DHL und Mercedes-AMG. Wer nur einen Screen gestaltet haben will, findet günstigere Anbieter. Wer wissen will, warum Kunden abspringen, und das ändern will, ist bei mir richtig."
 ];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cresta Awards 2023 und 2024, Eurobest 2017, New York Festivals. Weitere auf der Seite <a href="awards.html">Awards</a>.';
 
 /* ============ Daten: Cases ============
@@ -14,48 +13,48 @@ const CASES = {
   reisacher:{name:"Reisacher", client:"Reisacher GmbH, Autohausgruppe",
     lead1:"Vom Klemmbrett zum Live-Cockpit: Reisacher sieht die Auslastung von 8 Standorten in Echtzeit.",
     lead2:"Ich habe das Portal als Head of UX / CX von der Analyse bis zum Rollout verantwortet.",
-    body:"In den Werkstätten liefen Papier-Checklisten, Zeitarbeit, Sprachbarrieren und eine langsame Planungssoftware nebeneinander. Die Geschäftsführung sah Engpässe erst, wenn sie schon Geld kosteten. Ich habe mit Aufbereitern, Mechanikern und Management gesprochen und alle Prozesse aufgenommen, bevor der erste Screen entstand. Daraus wurde eine rollenbasierte Informationsarchitektur: Live-Dashboards für das Management, geführte Checklisten für die Werkstatt. Ein klickbarer Figma-Prototyp stand vor der Entwicklung, damit alle das System anfassen konnten, bevor es gebaut wurde. Wireframes, UI, eine iOS-App für die Werkstatt, QA und Rollout habe ich bis zum Einsatz an allen Standorten begleitet.",
-    result:"Jedes Team sieht die Auslastung live, Aufträge laufen ohne Umwege durch, Fehler werden seltener. Die Geschäftsführung erkennt Engpässe früher und verschiebt Kapazitäten zwischen den Häusern, statt jeden Standort einzeln zu retten. Der Rollout an allen acht Standorten dauerte drei Monate. Das Portal wurde angenommen, weil es dem Arbeitstag an der Theke folgt und niemandem einen neuen Prozess aufzwingt.",
+    body:"Papier-Checklisten, Zeitarbeit, Sprachbarrieren und langsame Software liefen nebeneinander. Die Geschäftsführung sah Engpässe erst, wenn sie Geld kosteten. Nach Gesprächen mit Mechanikern und Management entstand ein Portal mit zwei Sichten: Live-Dashboards fürs Management, geführte Checklisten für die Werkstatt. Ein klickbarer Prototyp stand vor dem Bau.",
+    result:"Jedes Team sieht die Auslastung live, Aufträge laufen ohne Umwege, Fehler werden seltener. Die Geschäftsführung verschiebt Kapazitäten zwischen den Häusern. Rollout an allen 8 Standorten in 3 Monaten.",
     metrics:[["8", "Standorte"], ["6 Monate", "vom Papier zum Live-Cockpit"], ["2", "Plattformen: Web und iOS"]],
     note:"Mittelstand · Head of UX / CX · Prozessdesign · Web und iOS", images:[]},
 
   ben:{name:"Ben App", client:"Garage51 GmbH, eigenes Produkt",
-    lead1:"Ben holt Wartende aus dem Wartezimmer, ohne Konto, ohne App-Installation und ohne ein einziges persönliches Datum.",
-    lead2:"Ich habe als Head of UX / CX Idee, Produkt, Marke und Auftritt von der ersten Skizze bis zum Marktstart gebaut.",
-    body:"Volle Wartezimmer belasten Patienten und Personal. Bestehende Lösungen verlangen zuerst Telefonnummer, Konto oder App-Installation, und genau dort entstehen Hürden und Datenschutzrisiken. Ben ist deshalb für jeden Dienstleister gebaut, bei dem Kunden warten: Praxis, Krankenhaus, Werkstatt, Amt, Ladengeschäft. Ich habe gemeinsam mit den Gründern das Produktkonzept entwickelt, in Praxen und Krankenhäusern mit Ärzten, Personal und Patienten gesprochen und Customer Journey und Service Blueprint erarbeitet. Daraus entstanden Wireframes, klickbare Prototypen und der MVP, getestet mit echten Nutzern. Dazu kamen App, Web-App, Website, Marke, App-Store-Auftritt, Flyer und Pitch-Deck.",
-    result:"Wer an der Anmeldung einen QR-Code scannt, kann gehen: ins Café, an die frische Luft, nach Hause. Eine Push-Nachricht holt ihn zurück, sobald er dran ist. Was nicht gespeichert wird, muss keine Praxis schützen und kein Patient fürchten. Datenschutz wird zu einer Eigenschaft, die man spürt. Ben läuft als App, Web-App und Website und basiert auf mehr als 40 Interviews mit der Zielgruppe.",
+    lead1:"Ben holt Wartende aus dem Wartezimmer, ohne Konto, ohne App-Installation und ohne persönliche Daten.",
+    lead2:"Ich habe als Head of UX / CX Produkt, Marke und Auftritt von der ersten Skizze bis zum Marktstart gebaut.",
+    body:"Volle Wartezimmer belasten Patienten und Personal. Bestehende Lösungen verlangen Telefonnummer, Konto oder App-Installation, das schafft Hürden und Datenschutzrisiken. Ben ist für jeden Dienstleister gebaut, bei dem Kunden warten. Ich entwickelte mit den Gründern das Konzept, sprach in Praxen und Krankenhäusern mit Ärzten, Personal und Patienten und baute Prototyp, MVP, App, Web-App, Website und Marke.",
+    result:"QR-Code an der Anmeldung scannen, gehen, per Push zurückgeholt werden, sobald man dran ist. Es wird nichts gespeichert, also gibt es nichts zu schützen. Grundlage: mehr als 40 Interviews mit der Zielgruppe.",
     metrics:[["0", "persönliche Daten nötig"], ["40+", "User Interviews"], ["3", "Plattformen: App, Web-App, Website"]],
     note:"SaaS · Produkt · Service Design · Behavioral Design", images:[]},
 
   cosmos:{name:"cosmos", client:"cosmos GmbH, vormals borntocreate",
     lead1:"cosmos zeigt Geschäftsführern in Echtzeit, ob ihre Maßnahmen die Unternehmensziele erreichen.",
-    lead2:"Ich habe als Head of UX / CX die Geschäftsführung beraten, die UX-Strategie für den Rebrand gesetzt und aus zwei Teams ein Produktteam gemacht.",
-    body:"Entscheider treffen Entscheidungen oft auf Basis veralteter Zahlen. cosmos verbindet Zielgruppen, Kennzahlen und Markenausrichtung und zeigt, wie Maßnahmen entlang der Customer Journey auf die Unternehmensziele wirken. Die Produktidee war größer als der Ablauf, der sie liefern sollte: UX und Entwicklung arbeiteten getrennt, Releases stauten sich. Ich habe die UX-Strategie für den Rebrand von borntocreate zu cosmos festgelegt, UX und Entwicklung zu einem Produktteam verbunden, Konflikte gelöst und feste Abläufe geschaffen. Als UX-Architekt habe ich Onboarding, TargetLens und KPI Map aufgebaut, vom ersten Login bis zur Warnung bei verfehlten Zielen.",
-    result:"Das Produktteam arbeitete nach vier Wochen in einem gemeinsamen Ablauf und lieferte schneller und mit weniger Abstimmung. Im März ging die Beta mit Marken aus dem DACH-Raum live. Heute bewerten Nutzer die Plattform mit 4,9 von 5 Punkten auf OMR.",
+    lead2:"Ich habe als Head of UX / CX die UX-Strategie für den Rebrand gesetzt und aus zwei Teams ein Produktteam gemacht.",
+    body:"Entscheider treffen Entscheidungen oft auf veralteten Zahlen. cosmos zeigt, wie Maßnahmen entlang der Customer Journey auf Unternehmensziele wirken. UX und Entwicklung arbeiteten getrennt, Releases stauten sich. Ich legte die UX-Strategie für den Rebrand fest, verband beide Teams zu einem Produktteam und baute Onboarding, TargetLens und KPI Map.",
+    result:"Nach vier Wochen arbeitete das Produktteam in einem gemeinsamen Ablauf und lieferte schneller. Im März ging die Beta mit Marken aus dem DACH-Raum live. Nutzer bewerten cosmos auf OMR mit 4,9 von 5.",
     metrics:[["4 Wochen", "bis zum gemeinsamen Produktteam"], ["4 Monate", "vom Rebrand zur neuen Arbeitsweise"], ["4,9 / 5", "Bewertung auf OMR"]],
     note:"SaaS · Head of UX / CX · Teamaufbau · Rebrand", images:[]},
 
   auris:{name:"AURIS", client:"Samsung Germany und Österreich, Garage51 GmbH",
     lead1:"AURIS macht den Klang von 6 Soundbars mit einem Tipp vergleichbar, direkt am Regal.",
-    lead2:"Ich habe das Projekt als Head of UX / CX R&D geleitet: Nutzerführung, Interface, Kundenbetreuung und Projektorganisation.",
-    body:"Im Handel stehen immer mehr Soundbars nebeneinander, erklärt über Datenblätter, die niemand versteht. Den Unterschied hört man, man liest ihn nicht. Bisher mussten dafür Geräte umgesteckt oder im Fernseher neu verbunden werden. Am Regal ist es laut, die Aufmerksamkeit kurz, und niemand liest eine Anleitung. Ich habe Durchlauf, Lautstärke und Aufmerksamkeitsspanne ausgewertet und das Interface auf drei Informationen reduziert: welche Soundbar spielt, was sie von den anderen unterscheidet, ein Tipp zum Wechseln. Film, Gaming und Sport bleiben beim Wechsel erhalten, damit Kunden denselben Moment vergleichen. Dazu habe ich Samsung betreut, das UX-Team angeleitet und die Umsetzungspartner für den Rollout in Deutschland, Österreich und der Schweiz eingewiesen.",
-    result:"Kunden wählen ein Szenario, tippen und hören den Unterschied sofort. Die durchschnittliche Verweildauer stieg um vier Minuten, an einem Ort, an dem sonst Sekunden zählen. Nach dem Start in Deutschland, Österreich und der Schweiz folgten weitere europäische Länder. Samsung führt das Projekt intern als Best Practice und zeichnete es bei den Best Practice Shop Awards mit Gold und Silber aus.",
+    lead2:"Ich habe als Head of UX / CX R&D Nutzerführung, Interface, Kundenbetreuung und Projektorganisation geleitet.",
+    body:"Am Regal stehen immer mehr Soundbars, erklärt über Datenblätter, die niemand versteht. Den Unterschied hört man. Dazu ist es laut und die Aufmerksamkeit kurz. Ich reduzierte das Interface auf drei Informationen: welche Soundbar spielt, was sie unterscheidet, ein Tipp zum Wechseln. Film, Gaming und Sport bleiben beim Wechsel erhalten, damit Kunden denselben Moment vergleichen.",
+    result:"Kunden wählen ein Szenario, tippen und hören den Unterschied sofort. Die Verweildauer stieg im Schnitt um 4 Minuten. Nach dem Start in DACH folgten weitere Länder. Samsung führt AURIS als Best Practice, mit Gold und Silber bei den Best Practice Shop Awards.",
     metrics:[["+4 Min.", "Verweildauer im Schnitt"], ["Gold und Silber", "Best Practice Shop Awards"], ["DACH", "Start, danach weitere Länder in Europa"]],
     note:"Retail · Phygital · Interface · Head of UX / CX R&D", images:[]},
 
   games:{name:"Black Friday", client:"Samsung Europe, Cheil Germany, BoraBora Studios",
     lead1:"Samsung macht aus Black Friday ein Spiel, in dem Kunden den Rabatt selbst verdienen.",
     lead2:"Ich habe die Erlebnisse von 2022 bis 2025 gestaltet, 2023 als Head of UX.",
-    body:"Zum Black Friday werben alle mit Rabatten, ein Prozentzeichen mehr unterscheidet niemanden. Samsung brauchte einen Grund, im Shop zu bleiben und zu kaufen. Ich habe drei Ausgaben gestaltet. 2022 Level Up Your Deal: Jedes Level verbessert den Deal (Cresta Bronze 2023, New York Festivals Finalist). 2023 Smartopia: eine 3D-Welt mit täglich neuem Spiel für Deutschland und 16 weitere Länder, von der Spielwelt bis zum Kaufabschluss (Cresta Finalist 2024). 2025 Galaxy AI Arcade: 26 Tage, 26 Länder, sechs Minispiele, wer gewinnt, bekommt einen Rabattcode.",
-    result:"Smartopia 2023 war eine der erfolgreichsten Black-Weeks-Kampagnen von Samsung: 20 Prozent mehr Umsatz als im Vorjahr, 63,5 Prozent höhere Conversion bei Besuchern, die gespielt haben, und 27 Prozent höherer Bestellwert pro Besucher. Spiel und Warenkorb sind ein Ablauf: Wer gespielt hat, landet ohne Umweg beim Deal.",
+    body:"Zum Black Friday werben alle mit Rabatten. Samsung brauchte einen Grund, im Shop zu bleiben. Ich gestaltete drei Ausgaben: 2022 Level Up Your Deal, 2023 Smartopia (3D-Welt mit täglich neuem Spiel in 17 Ländern), 2025 Galaxy AI Arcade (26 Tage, 26 Länder, sechs Minispiele, Gewinner erhalten einen Rabattcode). Auszeichnungen: Cresta Bronze 2023, Cresta Finalist 2024.",
+    result:"Smartopia 2023 war eine der erfolgreichsten Black-Weeks-Kampagnen von Samsung: 20 % mehr Umsatz als im Vorjahr, 63,5 % höhere Conversion bei Spielern, 27 % höherer Bestellwert pro Besucher.",
     metrics:[["+20 %", "Umsatz, Black Weeks 2023"], ["+63,5 %", "Conversion bei Spielern"], ["17", "Länder"]],
     note:"E-Commerce · Branded Game · Gamification · Head of UX", images:[]},
 
   amg:{name:"Mercedes-AMG", client:"Mercedes-AMG, BOLD digital",
     lead1:"Eine Bestellstrecke für Rennfahrzeuge, die der Käufer nie verlässt.",
-    lead2:"Ich habe als Creative Lead die digitale Markenwelt und den Online-Bestellprozess für den AMG GT4 verantwortet.",
-    body:"Mercedes-AMG steht für Leistung, Präzision und eine direkte Verbindung zwischen Mensch und Maschine. Das musste digital genauso spürbar werden wie auf der Rennstrecke, bis zur Bestellung. Ein Rennfahrzeug lässt sich in sehr vielen Varianten konfigurieren, und viele Optionen erschweren die Entscheidung. Ich habe alle digitalen Kanäle und Touchpoints entlang der Customer Journey analysiert und dem Kunden vorgestellt, daraus eine zusammenhängende Erlebnisarchitektur für Fahrzeuge, Stories und die AMG-Community entworfen und komplexe Leistungsdaten in emotional aufgeladene Module übersetzt: Konfigurator, Storytelling je Fahrzeug, Inhalte zu Events. Dazu kamen die AMG-Performance-Website und der Online-Bestellprozess für Kundensport-Fahrzeuge wie den AMG GT4.",
-    result:"Die Markenwelt beginnt auf der Rennstrecke, führt durch Ausstattung und Konfiguration und endet beim Kauf, ohne Sprung in einen Shop. Besucher blieben im Schnitt 4 Minuten länger, es gab 17 Prozent mehr Konfigurationen, die Klickrate stieg um 35 Prozent. Kundenkontakt und Präsentationen bei AMG habe ich über die gesamte Projektzeit selbst geführt.",
+    lead2:"Ich habe als Creative Lead Markenwelt und Online-Bestellprozess für den AMG GT4 verantwortet.",
+    body:"Ein Rennfahrzeug lässt sich in sehr vielen Varianten konfigurieren, und viele Optionen erschweren die Entscheidung. Ich analysierte alle digitalen Kanäle entlang der Customer Journey und entwarf eine zusammenhängende Erlebnisarchitektur: Konfigurator, Storytelling je Fahrzeug, Inhalte zu Events, die AMG-Performance-Website und der Bestellprozess für Kundensport-Fahrzeuge.",
+    result:"Die Markenwelt führt von der Rennstrecke über die Konfiguration bis zum Kauf, ohne Sprung in einen Shop. Besucher blieben im Schnitt 4 Minuten länger, es gab 17 % mehr Konfigurationen und 35 % mehr Klicks.",
     metrics:[["+4 Min.", "Verweildauer im Schnitt"], ["+17 %", "Konfigurationen"], ["+35 %", "Click-through-Rate"]],
     note:"Premium-Marke · Creative Lead · Konfigurator und Bestellprozess", images:[]},
 
@@ -68,7 +67,7 @@ const CASES = {
     note:"Plattform · UX Lead · Designsystem", images:[]},
 
   eintracht:{name:"Eintracht Frankfurt", client:"Cheil Germany",
-    lead1:"Die Eintracht-App bringt Ticketing, Merchandising und mobiles Bezahlen in eine App und holte in zwei Wochen eine Million Downloads.",
+    lead1:"Die Eintracht-App bündelt Ticketing, Merchandising und mobiles Bezahlen und holte in zwei Wochen eine Million Downloads.",
     lead2:"Ich habe Strategie, Customer Journey im Stadion und UI mitgestaltet.",
     body:"Fans erleben ihren Verein im Stadion, im Shop und beim Ticketkauf, und jeder Weg lief getrennt. Ich habe die Herleitung in Workshops im Stadion mit den Projektverantwortlichen besprochen, die Customer Journey im Stadion als Entscheidungsgrundlage ausgearbeitet und das Core-Team von Sketch auf Figma umgestellt.",
     result:"Die App holte in zwei Wochen eine Million Downloads und Platz 1 im Store, die Mitgliederregistrierungen stiegen um 240 Prozent, die Nutzungszeit um 130 Prozent. Das Team arbeitete danach in einer gemeinsamen Figma-Datei.",
