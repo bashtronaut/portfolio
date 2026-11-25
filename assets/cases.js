@@ -86,7 +86,7 @@ const CASES = {
 
 /* ============ Daten: Link-Profile (?f=plattform) ============ */
 const PROFILES = {
-  alle:{h1:"Vier Systeme, ein Kunde.", cases:["reisacher","ben","cosmos","auris","games","amg","smartways","eintracht","emojis"]},
+  alle:{h1:"Komplexität eliminieren, nicht nur managen.\nDas ist Experience Centric Strategy.", cases:["reisacher","ben","cosmos","auris","games","amg","smartways","eintracht","emojis"]},
   plattform:{h1:"Plattformen, die Teams jeden Tag benutzen.", cases:["smartways","reisacher","ben","cosmos"]},
   mobile:{h1:"Apps, die man auch zum zweiten Mal öffnet.", cases:["eintracht","emojis","ben","reisacher"]},
   retail:{h1:"Erlebnisse am Regal, die Kaufabsicht messen.", cases:["auris","games","smartways"]},
@@ -289,7 +289,12 @@ function measure(){
 }
 function render(){
   const key = profileKey(), p = PROFILES[key];
-  $("h1").textContent = p.h1;
+  const h1 = $("h1");
+  h1.textContent = "";
+  p.h1.split("\n").forEach((line, i) => {
+    if(i) h1.appendChild(document.createElement("br"));
+    h1.appendChild(document.createTextNode(line));
+  });
   $("intro").innerHTML = INTRO.map(t=>`<p>${t}</p>`).join("");
   $("intro-note").innerHTML = INTRO_NOTE;
   $("cases").innerHTML = p.cases.map(caseHTML).join("");
