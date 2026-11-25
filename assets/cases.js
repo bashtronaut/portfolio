@@ -10,7 +10,7 @@ const INTRO = [
    Ordner auf deinem Rechner: smartways=SmartWay, reisacher=Reisacher, eintracht=Eintracht Frankfurt,
    auris=Soundbar-Samsung, games=BlackFriday, emojis=LoE-Samsung, cosmos=cosmos, amg=AMG */
 const CASES = {
-  reisacher:{name:"Reisacher", client:"Reisacher GmbH<br>sonoisy<br>2025–2026",
+  reisacher:{name:"Reisacher", client:"Reisacher GmbH<br>Garage51 GmbH<br>2025–2026",
     lead1:"Vom Klemmbrett zum Live-Cockpit: Reisacher sieht die Auslastung von 8 Standorten in Echtzeit.",
     lead2:"Ich habe als Head of UX / CX Analyse, UX-Konzept und UI geleitet, mit Geschäftsführung, Werkstätten und Entwicklung.",
     body:"Papier-Checklisten, Zeitarbeit, Sprachbarrieren und langsame Software liefen nebeneinander. Die Geschäftsführung sah Engpässe erst, wenn sie Geld kosteten. Nach Gesprächen mit Mechanikern und Management entstand ein Portal mit zwei Sichten: Live-Dashboards fürs Management, geführte Checklisten für die Werkstatt. Ein klickbarer Prototyp stand vor dem Bau. Von den Wireframes bis zum Einsatz an allen Standorten begleitete ich die Umsetzung gemeinsam mit der Entwicklung.",
@@ -85,7 +85,7 @@ const CASES = {
 
 /* ============ Daten: Link-Profile (?f=plattform) ============ */
 const PROFILES = {
-  alle:{h1:"Komplexität eliminieren, nicht nur managen.\nDas ist Experience Centric Strategy.", cases:["reisacher","ben","cosmos","auris","games","amg","smartways","eintracht","emojis"]},
+  alle:{h1:"Experience Centric Strategy bedeutet\nKomplexität eliminieren, nicht nur managen.", cases:["reisacher","ben","cosmos","auris","games","amg","smartways","eintracht","emojis"]},
   plattform:{h1:"Plattformen, die Teams jeden Tag benutzen.", cases:["smartways","reisacher","ben","cosmos"]},
   mobile:{h1:"Apps, die man auch zum zweiten Mal öffnet.", cases:["eintracht","emojis","ben","reisacher"]},
   retail:{h1:"Erlebnisse am Regal, die Kaufabsicht messen.", cases:["auris","games","smartways"]},
