@@ -2,7 +2,7 @@
 const INTRO = [
   "Ein Kunde erlebt App, Plattform, Shop und Verkaufsfläche als einen Ablauf. Ein Unternehmen verwaltet sie als vier. An den Übergängen gehen Zeit, Geld und Kunden verloren. Seit 18 Jahren finde ich diese Stellen und löse sie.",
   "Ich beginne beim Kunden, nicht beim Design. Ich spreche mit den Menschen, die dem Problem am nächsten sind, untersuche den echten Ablauf, finde den Hebel mit der größten Wirkung und führe die Lösung ein, bis sie läuft.",
-  "Meine Kunden reichen von Startups über Mittelständler bis zu Samsung, DHL und Mercedes-AMG. Wer nur einen Screen gestaltet haben will, findet günstigere Anbieter. Wer wissen will, warum Kunden abspringen, und das ändern will, ist bei mir richtig."
+  "Meine Kunden reichen von Startups über Mittelständler bis zu Samsung, DHL und Mercedes-AMG. Ich habe Teams geführt und Design, Entwicklung und Geschäftsführung an einen Tisch gebracht. Wer nur einen Screen gestaltet haben will, findet günstigere Anbieter. Wer wissen will, warum Kunden abspringen, und das ändern will, ist bei mir richtig."
 ];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cresta Awards 2023 und 2024, Eurobest 2017, New York Festivals. Weitere auf der Seite <a href="awards.html">Awards</a>.';
 
 /* ============ Daten: Cases ============
@@ -12,23 +12,23 @@ const INTRO = [
 const CASES = {
   reisacher:{name:"Reisacher", client:"Reisacher GmbH, Autohausgruppe",
     lead1:"Vom Klemmbrett zum Live-Cockpit: Reisacher sieht die Auslastung von 8 Standorten in Echtzeit.",
-    lead2:"Ich habe das Portal als Head of UX / CX von der Analyse bis zum Rollout verantwortet.",
-    body:"Papier-Checklisten, Zeitarbeit, Sprachbarrieren und langsame Software liefen nebeneinander. Die Geschäftsführung sah Engpässe erst, wenn sie Geld kosteten. Nach Gesprächen mit Mechanikern und Management entstand ein Portal mit zwei Sichten: Live-Dashboards fürs Management, geführte Checklisten für die Werkstatt. Ein klickbarer Prototyp stand vor dem Bau.",
+    lead2:"Ich habe als Head of UX / CX Analyse, UX-Konzept und UI geleitet, mit Geschäftsführung, Werkstätten und Entwicklung.",
+    body:"Papier-Checklisten, Zeitarbeit, Sprachbarrieren und langsame Software liefen nebeneinander. Die Geschäftsführung sah Engpässe erst, wenn sie Geld kosteten. Nach Gesprächen mit Mechanikern und Management entstand ein Portal mit zwei Sichten: Live-Dashboards fürs Management, geführte Checklisten für die Werkstatt. Ein klickbarer Prototyp stand vor dem Bau. Von den Wireframes bis zum Einsatz an allen Standorten begleitete ich die Umsetzung gemeinsam mit der Entwicklung.",
     result:"Jedes Team sieht die Auslastung live, Aufträge laufen ohne Umwege, Fehler werden seltener. Die Geschäftsführung verschiebt Kapazitäten zwischen den Häusern. Rollout an allen 8 Standorten in 3 Monaten.",
     metrics:[["8", "Standorte"], ["6 Monate", "vom Papier zum Live-Cockpit"], ["2", "Plattformen: Web und iOS"]],
     note:"Mittelstand · Head of UX / CX · Prozessdesign · Web und iOS", images:[]},
 
   ben:{name:"Ben App", client:"Garage51 GmbH, eigenes Produkt",
     lead1:"Ben holt Wartende aus dem Wartezimmer, ohne Konto, ohne App-Installation und ohne persönliche Daten.",
-    lead2:"Ich habe als Head of UX / CX Produkt, Marke und Auftritt von der ersten Skizze bis zum Marktstart gebaut.",
-    body:"Volle Wartezimmer belasten Patienten und Personal. Bestehende Lösungen verlangen Telefonnummer, Konto oder App-Installation, das schafft Hürden und Datenschutzrisiken. Ben ist für jeden Dienstleister gebaut, bei dem Kunden warten. Ich entwickelte mit den Gründern das Konzept, sprach in Praxen und Krankenhäusern mit Ärzten, Personal und Patienten und baute Prototyp, MVP, App, Web-App, Website und Marke.",
+    lead2:"Ich habe gemeinsam mit den Gründern Produkt, UX, Design und Marke weitgehend allein entwickelt, von der ersten Skizze bis zum Marktstart.",
+    body:"Volle Wartezimmer belasten Patienten und Personal. Bestehende Lösungen verlangen Telefonnummer, Konto oder App-Installation, das schafft Hürden und Datenschutzrisiken. Ben ist für jeden Dienstleister gebaut, bei dem Kunden warten. Das Konzept entwickelte ich mit den Gründern. Gespräche in Praxen und Krankenhäusern, Prototyp, MVP, App, Web-App, Website und Marke habe ich weitgehend allein umgesetzt.",
     result:"QR-Code an der Anmeldung scannen, gehen, per Push zurückgeholt werden, sobald man dran ist. Es wird nichts gespeichert, also gibt es nichts zu schützen. Grundlage: mehr als 40 Interviews mit der Zielgruppe.",
     metrics:[["0", "persönliche Daten nötig"], ["40+", "User Interviews"], ["3", "Plattformen: App, Web-App, Website"]],
     note:"SaaS · Produkt · Service Design · Behavioral Design", images:[]},
 
   cosmos:{name:"cosmos", client:"cosmos GmbH, vormals borntocreate",
     lead1:"cosmos zeigt Geschäftsführern in Echtzeit, ob ihre Maßnahmen die Unternehmensziele erreichen.",
-    lead2:"Ich habe als Head of UX / CX die UX-Strategie für den Rebrand gesetzt und aus zwei Teams ein Produktteam gemacht.",
+    lead2:"Ich habe als Head of UX / CX die Geschäftsführung beraten, die UX-Strategie für den Rebrand gesetzt und aus zwei Teams ein Produktteam gemacht.",
     body:"Entscheider treffen Entscheidungen oft auf veralteten Zahlen. cosmos zeigt, wie Maßnahmen entlang der Customer Journey auf Unternehmensziele wirken. UX und Entwicklung arbeiteten getrennt, Releases stauten sich. Ich legte die UX-Strategie für den Rebrand fest, verband beide Teams zu einem Produktteam und baute Onboarding, TargetLens und KPI Map.",
     result:"Nach vier Wochen arbeitete das Produktteam in einem gemeinsamen Ablauf und lieferte schneller. Im März ging die Beta mit Marken aus dem DACH-Raum live. Nutzer bewerten cosmos auf OMR mit 4,9 von 5.",
     metrics:[["4 Wochen", "bis zum gemeinsamen Produktteam"], ["4 Monate", "vom Rebrand zur neuen Arbeitsweise"], ["4,9 / 5", "Bewertung auf OMR"]],
@@ -36,7 +36,7 @@ const CASES = {
 
   auris:{name:"AURIS", client:"Samsung Germany und Österreich, Garage51 GmbH",
     lead1:"AURIS macht den Klang von 6 Soundbars mit einem Tipp vergleichbar, direkt am Regal.",
-    lead2:"Ich habe als Head of UX / CX R&D Nutzerführung, Interface, Kundenbetreuung und Projektorganisation geleitet.",
+    lead2:"Ich habe als Head of UX / CX R&D das UX-Team geleitet, Samsung betreut und die Umsetzungspartner für den Rollout eingewiesen.",
     body:"Am Regal stehen immer mehr Soundbars, erklärt über Datenblätter, die niemand versteht. Den Unterschied hört man. Dazu ist es laut und die Aufmerksamkeit kurz. Ich reduzierte das Interface auf drei Informationen: welche Soundbar spielt, was sie unterscheidet, ein Tipp zum Wechseln. Film, Gaming und Sport bleiben beim Wechsel erhalten, damit Kunden denselben Moment vergleichen.",
     result:"Kunden wählen ein Szenario, tippen und hören den Unterschied sofort. Die Verweildauer stieg im Schnitt um 4 Minuten. Nach dem Start in DACH folgten weitere Länder. Samsung führt AURIS als Best Practice, mit Gold und Silber bei den Best Practice Shop Awards.",
     metrics:[["+4 Min.", "Verweildauer im Schnitt"], ["Gold und Silber", "Best Practice Shop Awards"], ["DACH", "Start, danach weitere Länder in Europa"]],
@@ -44,7 +44,7 @@ const CASES = {
 
   games:{name:"Black Friday", client:"Samsung Europe, Cheil Germany, BoraBora Studios",
     lead1:"Samsung macht aus Black Friday ein Spiel, in dem Kunden den Rabatt selbst verdienen.",
-    lead2:"Ich habe die Erlebnisse von 2022 bis 2025 gestaltet, 2023 als Head of UX.",
+    lead2:"Ich habe die Erlebnisse von 2022 bis 2025 mit Cheil Germany und BoraBora Studios für Samsung Europe gestaltet, 2023 als Head of UX.",
     body:"Zum Black Friday werben alle mit Rabatten. Samsung brauchte einen Grund, im Shop zu bleiben. Ich gestaltete drei Ausgaben: 2022 Level Up Your Deal, 2023 Smartopia (3D-Welt mit täglich neuem Spiel in 17 Ländern), 2025 Galaxy AI Arcade (26 Tage, 26 Länder, sechs Minispiele, Gewinner erhalten einen Rabattcode). Auszeichnungen: Cresta Bronze 2023, Cresta Finalist 2024.",
     result:"Smartopia 2023 war eine der erfolgreichsten Black-Weeks-Kampagnen von Samsung: 20 % mehr Umsatz als im Vorjahr, 63,5 % höhere Conversion bei Spielern, 27 % höherer Bestellwert pro Besucher.",
     metrics:[["+20 %", "Umsatz, Black Weeks 2023"], ["+63,5 %", "Conversion bei Spielern"], ["17", "Länder"]],
@@ -52,7 +52,7 @@ const CASES = {
 
   amg:{name:"Mercedes-AMG", client:"Mercedes-AMG, BOLD digital",
     lead1:"Eine Bestellstrecke für Rennfahrzeuge, die der Käufer nie verlässt.",
-    lead2:"Ich habe als Creative Lead Markenwelt und Online-Bestellprozess für den AMG GT4 verantwortet.",
+    lead2:"Ich war Creative Lead bei BOLD digital, habe Markenwelt und Bestellprozess des AMG GT4 verantwortet und den Kundenkontakt bei AMG geführt.",
     body:"Ein Rennfahrzeug lässt sich in sehr vielen Varianten konfigurieren, und viele Optionen erschweren die Entscheidung. Ich analysierte alle digitalen Kanäle entlang der Customer Journey und entwarf eine zusammenhängende Erlebnisarchitektur: Konfigurator, Storytelling je Fahrzeug, Inhalte zu Events, die AMG-Performance-Website und der Bestellprozess für Kundensport-Fahrzeuge.",
     result:"Die Markenwelt führt von der Rennstrecke über die Konfiguration bis zum Kauf, ohne Sprung in einen Shop. Besucher blieben im Schnitt 4 Minuten länger, es gab 17 % mehr Konfigurationen und 35 % mehr Klicks.",
     metrics:[["+4 Min.", "Verweildauer im Schnitt"], ["+17 %", "Konfigurationen"], ["+35 %", "Click-through-Rate"]],
@@ -60,7 +60,7 @@ const CASES = {
 
   smartways:{name:"SmartWays", client:"Samsung Electronics Germany, Produkt von Cheil",
     lead1:"SmartWays plant den Außendienst für 8.000 Samsung-Verkaufsstellen und spart Wege, Zeit und CO<sub>2</sub>.",
-    lead2:"Ich habe das Produkt als UX Lead gestaltet: Karte, Rollen und Designsystem für Web und Mobile.",
+    lead2:"Ich habe als UX Lead im Cheil-Team Karte, Rollen und Designsystem für Web und Mobile gestaltet.",
     body:"Fahrer planten ihre Touren von Hand und schafften 2,5 Verkaufsstellen am Tag. Ich habe das Interaktionsmodell um die Karte gebaut: Disponenten sehen Fahrer, Gebiete und Ziele an einem Ort, Fahrer checken mobil ein. Ein Designsystem für Web und Mobile hält KI-Tourenplanung, Live-Tracking und Auswertung zusammen.",
     result:"Der Jahres-ROI stieg um 200 Prozent, die Store-Besuche verdoppelten sich, der CO<sub>2</sub>-Ausstoß im Außendienst sank um 22 Prozent und die Zeit im Back-Office um über 70 Prozent.",
     metrics:[["+200 %", "Jahres-ROI"], ["+100 %", "Store-Besuche"], ["−22 %", "CO<sub>2</sub> im Außendienst"]],
@@ -68,7 +68,7 @@ const CASES = {
 
   eintracht:{name:"Eintracht Frankfurt", client:"Cheil Germany",
     lead1:"Die Eintracht-App bündelt Ticketing, Merchandising und mobiles Bezahlen und holte in zwei Wochen eine Million Downloads.",
-    lead2:"Ich habe Strategie, Customer Journey im Stadion und UI mitgestaltet.",
+    lead2:"Ich habe im Cheil-Team Strategie, Customer Journey im Stadion und UI mitgestaltet.",
     body:"Fans erleben ihren Verein im Stadion, im Shop und beim Ticketkauf, und jeder Weg lief getrennt. Ich habe die Herleitung in Workshops im Stadion mit den Projektverantwortlichen besprochen, die Customer Journey im Stadion als Entscheidungsgrundlage ausgearbeitet und das Core-Team von Sketch auf Figma umgestellt.",
     result:"Die App holte in zwei Wochen eine Million Downloads und Platz 1 im Store, die Mitgliederregistrierungen stiegen um 240 Prozent, die Nutzungszeit um 130 Prozent. Das Team arbeitete danach in einer gemeinsamen Figma-Datei.",
     metrics:[["1 Mio.", "Downloads in 2 Wochen"], ["+240 %", "Mitgliederregistrierung"], ["+130 %", "Nutzungszeit"]],
@@ -76,7 +76,7 @@ const CASES = {
 
   emojis:{name:"Land of Emojis", client:"Samsung Germany, Cheil Germany",
     lead1:"Land of Emojis machte aus Selfies Emojis und aus einer Botschaft für Vielfalt ein Bild auf dem Brandenburger Tor.",
-    lead2:"Ich war Art Director der App und aller digitalen Touchpoints, von der Landingpage bis zur Projektion.",
+    lead2:"Ich war Art Director der App und aller digitalen Touchpoints im Cheil-Team, von der Landingpage bis zur Projektion.",
     body:"2017 standen Vielfalt und Zusammenhalt in Europa unter Druck. Die App macht aus einem Selfie ein persönliches Emoji-Set. Start war eine Anzeige in der BILD, dazu kamen interaktive Displays in Berlin. Am Tag der Deutschen Einheit zeigte eine Live-Projektion alle Emojis auf dem Brandenburger Tor, einer Fläche, die für Marken sonst gesperrt ist. Ich habe den Look and Feel von der Landingpage bis zur LED-Wand geführt.",
     result:"67 Millionen Medienkontakte, über 220.000 erstellte Emojis, nach Angaben von Cheil die bisher erfolgreichste Markenaktivierung von Samsung Deutschland. Dazu Red Dot Best of the Best 2018 (Lifestyle App), 3× Gold und der Grand Prix Digital beim Cristal Festival, der erste Grand Prix für Samsung Deutschland.",
     metrics:[["Red Dot", "Best of the Best 2018"], ["3× Gold", "Cristal Festival"], ["ca. 50", "Emotionen pro Emoji-Set"]],
