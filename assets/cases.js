@@ -76,9 +76,9 @@ const CASES = {
 
   emojis:{name:"Land of Emojis", client:"Samsung Germany, Cheil Germany",
     lead1:"Land of Emojis machte aus Selfies Emojis und aus einer Botschaft für Vielfalt ein Bild auf dem Brandenburger Tor.",
-    lead2:"Ich war Art Director der App und der digitalen Touchpoints.",
-    body:"Im Wahljahr 2017 stand Vielfalt in Europa unter Druck. Ich habe die App gestaltet, die aus einem Selfie ein persönliches Emoji-Set erzeugt, und Look and Feel von der Landingpage über LED-Wände bis zur Live-Projektion am Tag der Deutschen Einheit geführt.",
-    result:"Red Dot Best of the Best 2018 in der Kategorie Lifestyle App. Dazu kamen 3× Gold und der Grand Prix Digital beim Cristal Festival.",
+    lead2:"Ich war Art Director der App und aller digitalen Touchpoints, von der Landingpage bis zur Projektion.",
+    body:"2017 standen Vielfalt und Zusammenhalt in Europa unter Druck. Die App macht aus einem Selfie ein persönliches Emoji-Set. Start war eine Anzeige in der BILD, dazu kamen interaktive Displays in Berlin. Am Tag der Deutschen Einheit zeigte eine Live-Projektion alle Emojis auf dem Brandenburger Tor, einer Fläche, die für Marken sonst gesperrt ist. Ich habe den Look and Feel von der Landingpage bis zur LED-Wand geführt.",
+    result:"67 Millionen Medienkontakte, über 220.000 erstellte Emojis, nach Angaben von Cheil die bisher erfolgreichste Markenaktivierung von Samsung Deutschland. Dazu Red Dot Best of the Best 2018 (Lifestyle App), 3× Gold und der Grand Prix Digital beim Cristal Festival, der erste Grand Prix für Samsung Deutschland.",
     metrics:[["Red Dot", "Best of the Best 2018"], ["3× Gold", "Cristal Festival"], ["ca. 50", "Emotionen pro Emoji-Set"]],
     note:"Mobile App · Kampagne · Art Direction · UI", images:[]}
 };
