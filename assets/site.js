@@ -1,0 +1,17 @@
+/* Gemeinsam für alle Seiten */
+const EMAIL = "alexander.neusinger@icloud.com";
+
+(function(){
+  var mail = document.getElementById("mail");
+  if(mail){ mail.textContent = EMAIL; mail.href = "mailto:" + EMAIL; }
+
+  /* Empfänger-Link (?f=plattform) bei der Navigation zwischen Seiten behalten */
+  var f = "";
+  try{ f = new URLSearchParams(location.search).get("f") || ""; }catch(e){}
+  if(!/^[a-z0-9_-]{1,30}$/i.test(f)) return;
+  document.querySelectorAll('a[href^="index.html"],a[href^="lebenslauf.html"],a[href^="awards.html"]').forEach(function(a){
+    var h = a.getAttribute("href"), i = h.indexOf("#");
+    var path = i > -1 ? h.slice(0, i) : h, hash = i > -1 ? h.slice(i) : "";
+    a.setAttribute("href", path + "?f=" + encodeURIComponent(f) + hash);
+  });
+})();
