@@ -1,6 +1,6 @@
 /* ============ Daten: Über mich ============ */
 const INTRO = [
-  "Seit 18 Jahren beseitige ich die Engpässe, an denen Unternehmen Zeit, Geld und Kunden verlieren, in Apps, Plattformen, Shops und auf der Verkaufsfläche.",
+  "Ein Kunde erlebt App, Plattform, Shop und Verkaufsfläche als einen Ablauf. Ein Unternehmen verwaltet sie als vier. An den Übergängen gehen Zeit, Geld und Kunden verloren. Seit 18 Jahren finde ich diese Stellen und baue die Lösung mit dem Team, bis sie läuft.",
   "Ich fange nicht beim Design an, sondern beim Kunden. Ich spreche mit den Menschen, die dem Problem am nächsten sind, von der Geschäftsführung bis zur Werkstatt, untersuche den tatsächlichen Ablauf und finde den einen Hebel mit der größten Wirkung. Danach entwerfe, teste und führe ich die Lösung ein, bis sie läuft.",
   "Meine Arbeit reicht von Startups über Mittelständler bis zu Samsung, DHL und Mercedes-AMG. Ich habe Teams geführt, Design und Entwicklung an einen Tisch gebracht und Projekte von der ersten Idee über das Konzept bis zum Rollout verantwortet.",
   "Wer nur einen Screen gestaltet haben will, findet günstigere Anbieter. Wer wissen will, warum Kunden abspringen, und das ändern will, ist bei mir richtig."
@@ -86,7 +86,7 @@ const CASES = {
 
 /* ============ Daten: Link-Profile (?f=plattform) ============ */
 const PROFILES = {
-  alle:{h1:"Erlebnisse, die Kunden binden und sich rechnen.", cases:["reisacher","ben","cosmos","auris","games","amg","smartways","eintracht","emojis"]},
+  alle:{h1:"Vier Systeme, ein Kunde.", cases:["reisacher","ben","cosmos","auris","games","amg","smartways","eintracht","emojis"]},
   plattform:{h1:"Plattformen, die Teams jeden Tag benutzen.", cases:["smartways","reisacher","ben","cosmos"]},
   mobile:{h1:"Apps, die man auch zum zweiten Mal öffnet.", cases:["eintracht","emojis","ben","reisacher"]},
   retail:{h1:"Erlebnisse am Regal, die Kaufabsicht messen.", cases:["auris","games","smartways"]},
@@ -104,7 +104,7 @@ function profileKey(){
   let f = "";
   try{ f = new URLSearchParams(location.search).get("f") || ""; }catch(e){}
   if(!f) f = (location.hash || "").replace("#","");
-  return PROFILES[f] ? f : "alle";
+  return Object.prototype.hasOwnProperty.call(PROFILES, f) ? f : "alle";
 }
 
 function slideHTML(src, alt){

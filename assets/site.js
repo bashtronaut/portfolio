@@ -1,4 +1,7 @@
 /* Gemeinsam für alle Seiten */
+/* Einbettung in fremde Seiten verhindern (frame-ancestors geht per Meta-Tag nicht) */
+try{ if(window.top !== window.self){ document.documentElement.style.display = "none"; } }
+catch(e){ document.documentElement.style.display = "none"; }
 const EMAIL = "alexander.neusinger@icloud.com";
 
 (function(){
