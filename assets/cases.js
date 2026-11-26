@@ -1,6 +1,6 @@
 /* ============ Daten: Über mich ============ */
 const INTRO = [
-  "Transformationen und digitale Produkte scheitern selten an der Strategie, sondern an der Umsetzung im Alltag. Ich schließe diese Lücke als eingebetteter Lead, der selbst mitliefert. Ich führe Transformationen vom ersten Workshop bis in den Betrieb und entwickle die digitalen Produkte, Plattformen und Prozesse dahinter selbst mit.",
+  "Transformationen und digitale Produkte scheitern selten an der Strategie, sondern an der Umsetzung im Alltag. Ich schließe diese Lücke mitten im Team und liefere selbst mit. Ich führe Transformationen vom ersten Workshop bis in den Betrieb und entwickle die digitalen Produkte, Plattformen und Prozesse dahinter selbst mit.",
   "Ich arbeite direkt im Team, bringe Business und IT an einen Tisch und mache den Ist-Zustand im Service Blueprint transparent, bevor Budget gebunden wird. KI setze ich dort ein, wo sie Wirkung bringt: in der Analyse, im Design, im Prototyping, in der Auswertung von Nutzerfeedback und in der laufenden Optimierung. Skaliert wird nur, was sich im Betrieb messbar bewährt.",
   "Ich führe cross-funktional, denke End-to-End und verantworte die Umsetzung bis in den Live-Betrieb. 18 Jahre Track Record, vom Startup bis zu Samsung, DHL und Mercedes-AMG. Für Unternehmen, die sofortigen Impact brauchen."
 ];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cristal Festival Grand Cristal 2017, Cresta Awards Gold 2020, New York Festivals Gold 2022. Alle auf der Seite <a href="awards.html">Awards</a>.';
