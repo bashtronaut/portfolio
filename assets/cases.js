@@ -1,8 +1,8 @@
 /* ============ Daten: Über mich ============ */
 const INTRO = [
-  "Transformationen und digitale Produkte scheitern selten an der Strategie, sondern an der Umsetzung im Alltag. Ich schließe diese Lücke mitten im Team: Als Customer Experience und Innovation Lead verantworte ich die End-to-End Customer Journey, von der ersten Analyse bis in den Betrieb, und liefere selbst mit.",
-  "Ich bringe Business und IT an einen Tisch und mache den Ist-Zustand im Service Blueprint sichtbar, der Karte aller Schritte von Kunde und Team, bevor Budget gebunden wird. Generative KI nutze ich in Analyse, UX-Konzeption, Prototyping und in der Auswertung von Nutzerfeedback. Aus den Ergebnissen entstehen Roadmap und KPIs. Skaliert wird nur, was sich im Betrieb messbar bewährt.",
-  "Ich führe cross-funktional, baue Design Systems und begleite den Wandel im Team (Change Management). 18 Jahre Erfahrung, vom Startup bis zu Samsung, DHL und Mercedes-AMG. Für Unternehmen, die sofortigen Impact brauchen."
+  "Ich bin Problemlöser an der Schnittstelle von Design, Technik und Business. Transformationen und digitale Produkte scheitern selten an der Strategie, sondern an der Umsetzung im Alltag. Ich schließe diese Lücke mitten im Team, als Customer Experience Lead, in der UX-Strategie oder als Innovation Lead. Ich verantworte die End-to-End Customer Journey von der ersten Analyse bis in den Betrieb und liefere selbst mit.",
+  "Ich bringe Business und IT an einen Tisch und mache den Ist-Zustand im Service Blueprint sichtbar, der Karte aller Schritte von Kunde und Team, bevor Budget gebunden wird. KI ist fester Teil meines Designprozesses: in Analyse, UX-Konzeption, Prototyping und in der Auswertung von Nutzerfeedback. Werkzeuge und Abläufe passe ich laufend an. Mit KI baue ich Systeme schneller und übergebe sie Hand in Hand an die Entwicklung.",
+  "Ich führe cross-funktional und baue Design Systems. 18 Jahre Erfahrung, vom Startup bis zu Samsung, DHL und Mercedes-AMG. Für Unternehmen, die sofortigen Impact brauchen."
 ];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cristal Festival Grand Cristal 2017, Cresta Awards Gold 2020, New York Festivals Gold 2022. Alle auf der Seite <a href="awards.html">Awards</a>.';
 
 /* ============ Daten: Cases ============
@@ -13,10 +13,10 @@ const CASES = {
   reisacher:{name:"Reisacher", client:"Reisacher GmbH<br>Garage51 GmbH<br>2025–2026",
     lead1:"Vom Klemmbrett zum Live-Cockpit: Reisacher sieht die Auslastung von 8 Standorten in Echtzeit.",
     lead2:"Ich habe als Head of UX / CX Analyse, UX-Konzept und UI geleitet, mit Geschäftsführung, Werkstätten und Entwicklung.",
-    body:"Papier-Checklisten, Zeitarbeit, Sprachbarrieren und langsame Software liefen nebeneinander. Die Geschäftsführung sah Engpässe erst, wenn sie Geld kosteten. Nach Gesprächen mit Mechanikern und Management entstand ein Portal mit zwei Sichten: Live-Dashboards fürs Management, geführte Checklisten für die Werkstatt. Ein klickbarer Prototyp stand vor dem Bau. Von den Wireframes bis zum Einsatz an allen Standorten begleitete ich die Umsetzung gemeinsam mit der Entwicklung.",
+    body:"Papier-Checklisten, Zeitarbeit, Sprachbarrieren und langsame Software liefen nebeneinander. Die Geschäftsführung sah Engpässe erst, wenn sie Geld kosteten. Nach Gesprächen mit Mechanikern und Management entstand ein Portal mit zwei Sichten: Live-Dashboards fürs Management, geführte Checklisten für die Werkstatt. Ein klickbarer Prototyp stand vor dem Bau. Ich habe das Portal in Figma gestaltet und mit KI schneller zu einem System ausgebaut. Von den Wireframes bis zum Einsatz an allen Standorten übergab ich Hand in Hand an die Entwicklung und begleitete die Umsetzung.",
     result:"Jedes Team sieht die Auslastung live, Aufträge laufen ohne Umwege, Fehler werden seltener. Die Geschäftsführung verschiebt Kapazitäten zwischen den Häusern. Rollout an allen 8 Standorten in 3 Monaten.",
     metrics:[["8", "Standorte"], ["6 Monate", "vom Papier zum Live-Cockpit"], ["2", "Plattformen: Web und iOS"]],
-    note:"Mittelstand · Head of UX / CX · Prozessdesign · Web und iOS", images:[]},
+    note:"Mittelstand · Head of UX / CX · Prozessdesign · KI-gestützt in Figma · Web und iOS", images:[]},
 
   ben:{name:"Ben App", client:"Ben App (eigenes Produkt)<br>Garage51 GmbH<br>seit 2024",
     lead1:"Ben holt Wartende aus dem Wartezimmer, ohne Konto, ohne App-Installation und ohne persönliche Daten.",
