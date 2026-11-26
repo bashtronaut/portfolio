@@ -1,8 +1,6 @@
 /* ============ Daten: Über mich ============ */
 const INTRO = [
-  "Ich bin am besten, wenn noch nichts definiert ist, aber die Vision klar ist.",
-  "Dann beginnt die Arbeit, die ich liebe: gemeinsam explorieren, Hypothesen prototypen, anpassen, dazulernen. Seit 18 Jahren begleite ich Unternehmen im Wandel, vom Startup bis zu Samsung, DHL und Mercedes-AMG. Ich führe Teams, bringe Design, Entwicklung und Geschäftsführung an einen Tisch und halte die Richtung, während sich alles um uns herum bewegt.",
-  "Ich plane Innovation aktiv mit und führe Transformation in den Alltag ein, bis sie im Betrieb läuft. Für Unternehmen, die sich neu erfinden wollen und dafür jemanden brauchen, der mit anpackt."
+  "Gute Transformation beginnt damit, zuzuhören. Ich spreche mit Kunden und Mitarbeitern, schaue mir an, wie ein Ablauf sich wirklich anfühlt, und mache ihn im Service Blueprint sichtbar, vom ersten Kontakt bis zum letzten Prozessschritt dahinter. Dann baue ich selbst die Produkte, Systeme und Prozesse, die dieses Erlebnis reibungslos und menschlich machen. Ich prototype schnell mit KI, teste mit den Menschen, die es nutzen, und verbessere, bis es sich selbstverständlich anfühlt. Seit 18 Jahren begleite ich Unternehmen im Wandel, vom Startup bis zu Samsung, DHL und Mercedes-AMG. Ich führe Teams kreativ und mit Haltung. Innovation soll im Alltag ankommen, nicht als Projekt, sondern als neue Normalität."
 ];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cristal Festival Grand Cristal 2017, Cresta Awards Gold 2020, New York Festivals Gold 2022. Alle auf der Seite <a href="awards.html">Awards</a>.';
 
 /* ============ Daten: Cases ============
