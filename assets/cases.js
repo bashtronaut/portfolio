@@ -85,7 +85,7 @@ const CASES = {
 
 /* ============ Daten: Link-Profile (?f=plattform) ============ */
 const PROFILES = {
-  alle:{h1:"Experience Centric Strategy bedeutet\nKomplexität eliminieren, nicht nur managen.", cases:["reisacher","ben","cosmos","auris","games","amg","smartways","eintracht","emojis"]},
+  alle:{h1:"Experience Innovation Lead:\nHands-on, Business-driven", cases:["reisacher","ben","cosmos","auris","games","amg","smartways","eintracht","emojis"]},
   plattform:{h1:"Plattformen, die Teams jeden Tag benutzen.", cases:["smartways","reisacher","ben","cosmos"]},
   mobile:{h1:"Apps, die man auch zum zweiten Mal öffnet.", cases:["eintracht","emojis","ben","reisacher"]},
   retail:{h1:"Erlebnisse am Regal, die Kaufabsicht messen.", cases:["auris","games","smartways"]},
