@@ -114,8 +114,6 @@ h1{margin:0;font-weight:500;font-size:var(--h1);line-height:1.05;letter-spacing:
 .skip:focus{left:0}
 .dot{width:24px;height:24px}
 .dots{margin-left:-9px}
-.dot::before{background:#8A8A8A}
-.dot[aria-current="true"]::before{background:var(--ink)}
 .block.contact{margin-top:calc(var(--sec) * 2);padding-bottom:calc(var(--sec) * 1.5)}
 .block.contact + .foot,.block.contact ~ .foot{padding-top:calc(var(--sec) / 2)}
 
