@@ -129,7 +129,7 @@ function caseHTML(id, i){
         <ul class="tags" aria-label="Kategorien">${tags}</ul>
         <div class="metrics">${metrics}</div>
       </div>
-      <div class="slider" role="region" aria-roledescription="Karussell" aria-label="Bilder zu ${c.name}">
+      <div class="slider"${c.images.length ? ` role="region" aria-roledescription="Karussell" aria-label="Bilder zu ${c.name}"` : ' aria-hidden="true" inert'}>
         <div class="track" tabindex="0">${slides}</div>
         <div class="controls">
           <div class="dots">${dots}</div>
