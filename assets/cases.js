@@ -3,7 +3,7 @@ const INTRO = [
   "Ein Kunde erlebt App, Plattform, Shop und Verkaufsfläche als einen Ablauf. Ein Unternehmen verwaltet sie als vier. An den Übergängen gehen Zeit, Geld und Kunden verloren. Seit 18 Jahren finde ich diese Stellen und löse sie.",
   "Ich beginne beim Kunden, nicht beim Design. Ich spreche mit den Menschen, die dem Problem am nächsten sind, untersuche den echten Ablauf, finde den Hebel mit der größten Wirkung und führe die Lösung ein, bis sie läuft.",
   "Meine Kunden reichen von Startups über Mittelständler bis zu Samsung, DHL und Mercedes-AMG. Ich habe Teams geführt und Design, Entwicklung und Geschäftsführung an einen Tisch gebracht. Wer nur einen Screen gestaltet haben will, findet günstigere Anbieter. Wer wissen will, warum Kunden abspringen, und das ändern will, ist bei mir richtig."
-];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cresta Awards 2023 und 2024, Eurobest 2017, New York Festivals. Weitere auf der Seite <a href="awards.html">Awards</a>.';
+];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cristal Festival Grand Cristal 2017, Cresta Awards Gold 2020, New York Festivals Gold 2022. Alle auf der Seite <a href="awards.html">Awards</a>.';
 
 /* ============ Daten: Cases ============
    images: Pfade unter /cases/<id>/ (jpg, webp oder mp4). Leer = grauer Platzhalter.

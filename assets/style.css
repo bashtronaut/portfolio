@@ -151,7 +151,7 @@ html{scrollbar-gutter:stable}
 .aw{display:flex;justify-content:space-between;align-items:baseline;gap:var(--g);padding:16px 0;border-bottom:1px solid var(--line)}
 .aw-n{display:flex;flex-direction:column;gap:2px;min-width:0}
 .aw-t{font-weight:500}
-.aw-o{font-size:16px;line-height:1.35;color:var(--grey)}
+.aw-o{font-size:16px;line-height:1.35;color:var(--grey);font-weight:400}
 .aw-t{flex:1 1 0;min-width:0}
 .aw-y{flex:0 0 7.5em;color:var(--grey)}
 .aw-r{flex:1 1 0;min-width:0;color:var(--grey);text-align:right}
