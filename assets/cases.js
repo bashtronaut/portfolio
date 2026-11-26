@@ -1,8 +1,8 @@
 /* ============ Daten: Über mich ============ */
 const INTRO = [
-  "Ein Kunde erlebt App, Plattform, Shop und Verkaufsfläche als einen Ablauf. Ein Unternehmen verwaltet sie als vier. An den Übergängen gehen Zeit, Geld und Kunden verloren. Seit 18 Jahren finde ich diese Stellen und löse sie.",
-  "Ich beginne beim Kunden, nicht beim Design. Ich spreche mit den Menschen, die dem Problem am nächsten sind, untersuche den echten Ablauf, finde den Hebel mit der größten Wirkung und führe die Lösung ein, bis sie läuft.",
-  "Meine Kunden reichen von Startups über Mittelständler bis zu Samsung, DHL und Mercedes-AMG. Ich habe Teams geführt und Design, Entwicklung und Geschäftsführung an einen Tisch gebracht. Wer nur einen Screen gestaltet haben will, findet günstigere Anbieter. Wer wissen will, warum Kunden abspringen, und das ändern will, ist bei mir richtig."
+  "Ich bin am besten, wenn noch nichts definiert ist, aber die Vision klar ist.",
+  "Dann beginnt die Arbeit, die ich liebe: gemeinsam explorieren, Hypothesen prototypen, anpassen, dazulernen. Seit 18 Jahren begleite ich Unternehmen im Wandel, vom Startup bis zu Samsung, DHL und Mercedes-AMG. Ich führe Teams, bringe Design, Entwicklung und Geschäftsführung an einen Tisch und halte die Richtung, während sich alles um uns herum bewegt.",
+  "Ich plane Innovation aktiv mit und führe Transformation in den Alltag ein, bis sie im Betrieb läuft. Für Unternehmen, die sich neu erfinden wollen und dafür jemanden brauchen, der mit anpackt."
 ];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cristal Festival Grand Cristal 2017, Cresta Awards Gold 2020, New York Festivals Gold 2022. Alle auf der Seite <a href="awards.html">Awards</a>.';
 
 /* ============ Daten: Cases ============
