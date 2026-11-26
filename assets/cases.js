@@ -1,8 +1,8 @@
 /* ============ Daten: Über mich ============ */
 const INTRO = [
-  "Transformationen und digitale Produkte scheitern selten an der Strategie, sondern an der Umsetzung im Alltag. Ich schließe diese Lücke mitten im Team und liefere selbst mit, von der ersten Analyse bis in den Betrieb.",
-  "Ich bringe Business und IT an einen Tisch und mache den Ist-Zustand im Service Blueprint sichtbar, bevor Budget gebunden wird. KI nutze ich in Analyse, Design, Prototyping und in der Auswertung von Nutzerfeedback. Skaliert wird nur, was sich im Betrieb messbar bewährt.",
-  "Ich führe cross-funktional und denke End-to-End. 18 Jahre Track Record, vom Startup bis zu Samsung, DHL und Mercedes-AMG. Für Unternehmen, die sofortigen Impact brauchen."
+  "Transformationen und digitale Produkte scheitern selten an der Strategie, sondern an der Umsetzung im Alltag. Ich schließe diese Lücke mitten im Team: Als Customer Experience und Innovation Lead verantworte ich die End-to-End Customer Journey, von der ersten Analyse bis in den Betrieb, und liefere selbst mit.",
+  "Ich bringe Business und IT an einen Tisch und mache den Ist-Zustand im Service Blueprint sichtbar, der Karte aller Schritte von Kunde und Team, bevor Budget gebunden wird. Generative KI nutze ich in Analyse, UX-Konzeption, Prototyping und in der Auswertung von Nutzerfeedback. Aus den Ergebnissen entstehen Roadmap und KPIs. Skaliert wird nur, was sich im Betrieb messbar bewährt.",
+  "Ich führe cross-funktional, baue Design Systems und begleite den Wandel im Team (Change Management). 18 Jahre Erfahrung, vom Startup bis zu Samsung, DHL und Mercedes-AMG. Für Unternehmen, die sofortigen Impact brauchen."
 ];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cristal Festival Grand Cristal 2017, Cresta Awards Gold 2020, New York Festivals Gold 2022. Alle auf der Seite <a href="awards.html">Awards</a>.';
 
 /* ============ Daten: Cases ============
