@@ -1,8 +1,8 @@
 /* ============ Daten: Über mich ============ */
 const INTRO = [
-  "Ich bin Problemlöser an der Schnittstelle von Design, Technik und Business. Transformationen und digitale Produkte scheitern selten an der Strategie, sondern an der Umsetzung im Alltag. Ich schließe diese Lücke mitten im Team, als Customer Experience Lead, in der UX-Strategie oder als Innovation Lead. Ich verantworte die End-to-End Customer Journey von der ersten Analyse bis in den Betrieb und liefere selbst mit.",
-  "Ich bringe Business und IT an einen Tisch und mache den Ist-Zustand im Service Blueprint sichtbar, der Karte aller Schritte von Kunde und Team, bevor Budget gebunden wird. KI ist fester Teil meines Designprozesses: in Analyse, UX-Konzeption, Prototyping und in der Auswertung von Nutzerfeedback. Werkzeuge und Abläufe passe ich laufend an. Mit KI baue ich Systeme schneller und übergebe sie Hand in Hand an die Entwicklung.",
-  "Ich führe cross-funktional und baue Design Systems. 18 Jahre Erfahrung, vom Startup bis zu Samsung, DHL und Mercedes-AMG. Für Unternehmen, die sofortigen Impact brauchen."
+  "Transformation wird im Alltag des Teams entschieden, nicht auf der Strategiefolie. Dort arbeite ich: als Problemlöser an der Schnittstelle von Design, Technik und Business, als Customer Experience Lead, in der UX-Strategie oder als Innovation Lead.",
+  "Ich verantworte die End-to-End Customer Journey von der Analyse bis in den Betrieb und liefere selbst mit. KI gehört fest zu meinem Designprozess, Werkzeuge und Abläufe passe ich laufend an.",
+  "18 Jahre Erfahrung, vom Startup bis Samsung, DHL und Mercedes-AMG. Für Unternehmen, die sofortigen Impact brauchen."
 ];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cristal Festival Grand Cristal 2017, Cresta Awards Gold 2020, New York Festivals Gold 2022. Alle auf der Seite <a href="awards.html">Awards</a>.';
 
 /* ============ Daten: Cases ============
