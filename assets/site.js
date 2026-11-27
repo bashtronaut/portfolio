@@ -4,6 +4,15 @@ try{ if(window.top !== window.self){ document.documentElement.style.display = "n
 catch(e){ document.documentElement.style.display = "none"; }
 const EMAIL = "alexander.neusinger@icloud.com";
 
+/* Erfahrungsjahre live: Zahl = aktuelles Jahr minus Startjahr (data-years) */
+(function(){
+  var y = new Date().getFullYear();
+  document.querySelectorAll("[data-years]").forEach(function(e){
+    var s = parseInt(e.getAttribute("data-years"), 10);
+    if(s > 1990 && s <= y) e.textContent = String(y - s);
+  });
+})();
+
 (function(){
   var mail = document.getElementById("mail");
   if(mail){ mail.textContent = EMAIL; mail.href = "mailto:" + EMAIL; }
