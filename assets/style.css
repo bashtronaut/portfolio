@@ -191,7 +191,7 @@ html{scrollbar-gutter:stable}
 @media (max-width:699px){
   .metrics{grid-template-columns:repeat(3,minmax(0,1fr));column-gap:12px;row-gap:0}
   .metric{flex-direction:column;align-items:flex-start;gap:6px}
-  .metric span{font-size:var(--fs-small);line-height:1.3}
+  .metric span{font-size:var(--fs-small);line-height:1.3;hyphens:manual}
   .tags{flex-wrap:nowrap;overflow-x:auto;margin-right:calc(var(--m) * -1);padding-right:var(--m);scrollbar-width:none;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
   .tags::-webkit-scrollbar{display:none}
   .tags li{flex:0 0 auto;height:36px;padding:0 14px}
