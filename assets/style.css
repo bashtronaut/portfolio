@@ -109,6 +109,14 @@ h1{margin:0;font-weight:500;font-size:var(--h1);line-height:1.05;letter-spacing:
 
 @media (prefers-reduced-motion:reduce){ html{scroll-behavior:auto} .dot{transition:none} }
 
+h3.role{font-size:inherit;line-height:inherit;letter-spacing:inherit}
+@media print{
+  @page{size:A4;margin:16mm}
+  body{background:#fff!important;color:#000!important;font-size:11pt}
+  .top,.block.contact,.foot,.dots,.dot{display:none!important}
+  .block.row,article{break-inside:avoid}
+  a{color:#000;text-decoration:none}
+}
 .foot a{text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:auto}
 .dot{width:24px;height:24px}
 .dots{margin-left:-9px}
