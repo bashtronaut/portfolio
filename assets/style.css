@@ -122,7 +122,7 @@ h3.role{font-size:inherit;line-height:inherit;letter-spacing:inherit}
 .dots{margin-left:-9px}
 .block.contact{margin-top:calc(var(--sec) * 2);padding-bottom:calc(var(--sec) * 1.5)}
 .block.contact + .foot,.block.contact ~ .foot{padding-top:calc(var(--sec) / 2)}
-.block.contact.contact-tight{margin-top:var(--sec)}
+.block.contact.contact-tight{margin-top:0}
 
 /* ============ Navigation: aktuelle Seite ============ */
 .top nav a[aria-current="page"]{color:var(--ink)}
