@@ -21,9 +21,12 @@ const EMAIL = "alexander.neusinger@icloud.com";
   var f = "";
   try{ f = new URLSearchParams(location.search).get("f") || ""; }catch(e){}
   if(!/^[a-z0-9_-]{1,30}$/i.test(f)) return;
-  document.querySelectorAll('a[href^="index.html"],a[href^="lebenslauf.html"],a[href^="awards.html"]').forEach(function(a){
+  document.querySelectorAll('a[href="/"],a[href^="/lebenslauf"],a[href^="/awards"],a[href^="/#"]').forEach(function(a){
     var h = a.getAttribute("href"), i = h.indexOf("#");
     var path = i > -1 ? h.slice(0, i) : h, hash = i > -1 ? h.slice(i) : "";
     a.setAttribute("href", path + "?f=" + encodeURIComponent(f) + hash);
   });
 })();
+
+/* Adressleiste ohne .html anzeigen */
+(function(){try{var p=location.pathname,n=p.replace(/\/index\.html$/,"/").replace(/\.html$/,"");if(n!==p)history.replaceState(null,"",n+location.search+location.hash);}catch(e){}})();

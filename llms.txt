@@ -11,8 +11,8 @@ Ich verantworte die End-to-End Customer Journey von der Analyse bis in den Betri
 ## Seiten
 
 - [Startseite mit ausgewählten Arbeiten](https://www.sonoisy.de/): neun Projekte mit Rolle, Kunde, Agentur, Jahr und Ergebnis
-- [Awards](https://www.sonoisy.de/awards.html): 42 Auszeichnungen und 6 Shortlist- und Finalistenplätze mit Projekt, Kategorie und Jahr
-- [Lebenslauf](https://www.sonoisy.de/lebenslauf.html): Stationen von 2010 bis heute
+- [Awards](https://www.sonoisy.de/awards): 42 Auszeichnungen und 6 Shortlist- und Finalistenplätze mit Projekt, Kategorie und Jahr
+- [Lebenslauf](https://www.sonoisy.de/lebenslauf): Stationen von 2010 bis heute
 - [Kontakt](https://www.sonoisy.de/#kontakt)
 
 ## Ausgewählte Arbeiten

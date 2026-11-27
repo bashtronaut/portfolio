@@ -3,7 +3,7 @@ const INTRO = [
   "Transformation wird im Alltag des Teams entschieden, nicht auf der Strategiefolie. Dort arbeite ich: als Problemlöser an der Schnittstelle von Design, Technik und Business, als Customer Experience Lead, in der UX-Strategie oder als Innovation Lead.",
   "Ich verantworte die End-to-End Customer Journey von der Analyse bis in den Betrieb und liefere selbst mit. KI gehört fest zu meinem Designprozess, Werkzeuge und Abläufe passe ich laufend an.",
   "18 Jahre Erfahrung, vom Startup bis Samsung, DHL und Mercedes-AMG. Für Unternehmen, die sofortigen Impact brauchen."
-];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cristal Festival Grand Cristal 2017, Cresta Awards Gold 2020, New York Festivals Gold 2022. Alle auf der Seite <a href="awards.html">Awards</a>.';
+];const INTRO_NOTE = 'Red Dot Best of the Best 2018, Cristal Festival Grand Cristal 2017, Cresta Awards Gold 2020, New York Festivals Gold 2022. Alle auf der Seite <a href="/awards">Awards</a>.';
 
 /* ============ Daten: Cases ============
    images: Pfade unter /cases/<id>/ (jpg, webp oder mp4). Leer = grauer Platzhalter.
