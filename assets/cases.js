@@ -39,7 +39,7 @@ const CASES = {
     lead2:"Ich habe als Head of UX / CX R&D das UX-Team geleitet und Samsung betreut.",
     body:"Am Regal stehen immer mehr Soundbars, erklärt über Datenblätter, die niemand versteht. Den Unterschied hört man. Dazu ist es laut und die Aufmerksamkeit kurz. Ich reduzierte das Interface auf drei Informationen: welche Soundbar spielt, was sie unterscheidet, ein Tipp zum Wechseln. Film, Gaming und Sport bleiben beim Wechsel erhalten, damit Kunden denselben Moment vergleichen.",
     result:"Kunden wählen ein Szenario, tippen und hören den Unterschied sofort. Die Verweildauer stieg im Schnitt um 4 Minuten. Nach dem Start in DACH folgten weitere Länder. Samsung führt AURIS als Best Practice, mit Gold und Silber bei den Best Practice Shop Awards.",
-    metrics:[["+4 Min.", "Verweildauer im Schnitt"], ["Gold und Silber", "Best Practice Shop Awards"], ["DACH", "Start, danach weitere Länder in Europa"]],
+    metrics:[["+4 Min.", "Verweildauer im Schnitt"], ["2 Awards", "Gold und Silber, Shop Awards"], ["DACH", "Start, danach weitere Länder in Europa"]],
     note:"Retail · Phygital · Interface · Head of UX / CX R&D", images:[]},
 
   games:{name:"Black Friday", client:"Samsung Europe<br>Cheil Germany GmbH<br>2022–2025",
@@ -71,7 +71,7 @@ const CASES = {
     lead2:"Ich habe Strategie, Customer Journey im Stadion und UI mitgestaltet.",
     body:"Fans erleben ihren Verein im Stadion, im Shop und beim Ticketkauf, und jeder Weg lief getrennt. Ich habe die Herleitung in Workshops im Stadion mit den Projektverantwortlichen besprochen, die Customer Journey im Stadion als Entscheidungsgrundlage ausgearbeitet und das Core-Team von Sketch auf Figma umgestellt.",
     result:"Die App holte in zwei Wochen eine Million Downloads und Platz 1 im Store, die Mitgliederregistrierungen stiegen um 240 Prozent, die Nutzungszeit um 130 Prozent. Das Team arbeitete danach in einer gemeinsamen Figma-Datei.",
-    metrics:[["1 Mio.", "Downloads in 2 Wochen"], ["+240 %", "Mitgliederregistrierung"], ["+130 %", "Nutzungszeit"]],
+    metrics:[["1 Mio.", "Downloads in 2 Wochen"], ["+240 %", "Mitglieder-Registrierung"], ["+130 %", "Nutzungszeit"]],
     note:"Mobile App · Strategie · Customer Journey · UI", images:[]},
 
   emojis:{name:"Land of Emojis", client:"Samsung Deutschland<br>Cheil Germany GmbH<br>2017",
