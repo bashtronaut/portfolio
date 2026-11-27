@@ -196,3 +196,5 @@ html{scrollbar-gutter:stable}
   .tags::-webkit-scrollbar{display:none}
   .tags li{flex:0 0 auto;height:36px;padding:0 14px}
 }
+/* Sehr schmale Geraete (unter 360 px): Kennzahlen eine Stufe kleiner, damit drei Spalten passen */
+@media (max-width:359px){ :root{--fs-figure:20px} }
