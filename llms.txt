@@ -17,7 +17,7 @@ Ich verantworte die End-to-End Customer Journey von der Analyse bis in den Betri
 
 ## Ausgewählte Arbeiten
 
-- Reisacher: Vom Klemmbrett zum Live-Cockpit: Reisacher sieht die Auslastung von 8 Standorten in Echtzeit. Ich habe als Head of UX / CX Analyse, UX-Konzept und UI geleitet, mit Geschäftsführung, Werkstätten und Entwicklung. Kunde, Agentur, Jahr: Reisacher GmbH, Garage51 GmbH, 2025–2026.
+- Aufbereiter Portal: Vom Klemmbrett zum Live-Cockpit: Reisacher sieht die Auslastung von 8 Standorten in Echtzeit. Ich habe als Head of UX / CX Analyse, UX-Konzept und UI geleitet, mit Geschäftsführung, Werkstätten und Entwicklung. Kunde, Agentur, Jahr: Reisacher GmbH, Garage51 GmbH, 2025–2026.
 - Ben App: Ben holt Wartende aus dem Wartezimmer, ohne Konto, ohne App-Installation und ohne persönliche Daten. Ich habe gemeinsam mit den Gründern Produkt, UX, Design und Marke weitgehend allein entwickelt, von der ersten Skizze bis zum Marktstart. Kunde, Agentur, Jahr: Ben App (eigenes Produkt), Garage51 GmbH, seit 2024.
 - cosmos: cosmos zeigt Geschäftsführern in Echtzeit, ob ihre Maßnahmen die Unternehmensziele erreichen. Ich habe als Head of UX / CX die Geschäftsführung beraten, die UX-Strategie für den Rebrand gesetzt und aus zwei Teams ein Produktteam gemacht. Kunde, Agentur, Jahr: cosmos GmbH, Inhouse, 2025.
 - AURIS: AURIS macht den Klang von 6 Soundbars mit einem Tipp vergleichbar, direkt am Regal. Ich habe als Head of UX / CX R&D das UX-Team geleitet, Samsung betreut und die Umsetzungspartner für den Rollout eingewiesen. Kunde, Agentur, Jahr: Samsung Deutschland und Österreich, Cheil Germany GmbH, 2023–2024.

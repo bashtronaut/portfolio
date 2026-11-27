@@ -10,7 +10,7 @@ const INTRO = [
    Ordner auf deinem Rechner: smartways=SmartWay, reisacher=Reisacher, eintracht=Eintracht Frankfurt,
    auris=Soundbar-Samsung, games=BlackFriday, emojis=LoE-Samsung, cosmos=cosmos, amg=AMG */
 const CASES = {
-  reisacher:{name:"Reisacher", client:"Reisacher GmbH<br>Garage51 GmbH<br>2025–2026",
+  reisacher:{name:"Aufbereiter Portal", client:"Reisacher GmbH<br>Garage51 GmbH<br>2025–2026",
     lead1:"Vom Klemmbrett zum Live-Cockpit: Reisacher sieht die Auslastung von 8 Standorten in Echtzeit.",
     lead2:"Ich habe als Head of UX / CX Analyse, UX-Konzept und UI geleitet, mit Geschäftsführung, Werkstätten und Entwicklung.",
     body:"Papier-Checklisten, Zeitarbeit, Sprachbarrieren und langsame Software liefen nebeneinander. Die Geschäftsführung sah Engpässe erst, wenn sie Geld kosteten. Nach Gesprächen mit Mechanikern und Management entstand ein Portal mit zwei Sichten: Live-Dashboards fürs Management, geführte Checklisten für die Werkstatt. Ein klickbarer Prototyp stand vor dem Bau. Ich habe das Portal in Figma gestaltet und mit KI schneller zu einem System ausgebaut. Von den Wireframes bis zum Einsatz an allen Standorten übergab ich Hand in Hand an die Entwicklung und begleitete die Umsetzung.",
